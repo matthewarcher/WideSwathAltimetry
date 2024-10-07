@@ -1,4 +1,4 @@
-# Global Submesoscale Ocean
+# Global Submesoscale Ocean Dynamics Unveiled by Wide-Swath Satellite Altimetry
 
 This package contains the code associated with the paper "Global Submesoscale Ocean Dynamics Unveiled by Wide-Swath Satellite Altimetry," submitted to Nature.
 
