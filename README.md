@@ -1,6 +1,6 @@
-# Global Submesoscale Ocean Dynamics Unveiled by Wide-Swath Satellite Altimetry
+# Wide-swath satellite altimetry unveils global submesoscale ocean dynamics
 
-This package contains the code associated with the paper "Global Submesoscale Ocean Dynamics Unveiled by Wide-Swath Satellite Altimetry," submitted to Nature.
+This package contains the code associated with the paper "Wide-swath satellite altimetry unveils global submesoscale ocean dynamics," submitted to Nature.
 
 Matlab2023b was utilized to generate the main figures for this study. No specialized software was required for the analyses presented. The code for each figure is included in the package, labeled as Figure?.m, where ? ranges from 1 to 4.
 
